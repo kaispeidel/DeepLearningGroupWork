@@ -6,11 +6,11 @@
 
 Group Members:
 
-Kai Speidel
-Marta Kołacińska
-Lucia Welther
-Nikoleta Raychinova
-Manuel De Castro Ribeiro Jardim
+- Kai Speidel
+- Marta Kołacińska
+- Lucia Welther
+- Nikoleta Raychinova
+- Manuel De Castro Ribeiro Jardim
 
 
 --- 
